@@ -1,3 +1,3 @@
 # Paragon z warzywniaka
 Kto jest najlepszym commiterem?
-iWannaBe.dev
+Marcin Rogalski
